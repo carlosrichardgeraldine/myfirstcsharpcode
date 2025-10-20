@@ -3,7 +3,8 @@ namespace ThisIsWhereIShouldPutMyMainFunction {
         static void Main(string[] args) {
             // MyFirstCode.Program.RunSophiaReportCard();
             // MySecondCode.Program.RunRandomBytes();
-            MyThirdCode.Program.RunLargerValue();
+            // MyThirdCode.Program.RunLargerValue();
+            myFourthCode.Program.RunRandomNumbers();
         }
     }
 }
