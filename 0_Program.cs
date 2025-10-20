@@ -4,7 +4,8 @@ namespace ThisIsWhereIShouldPutMyMainFunction {
             // MyFirstCode.Program.RunSophiaReportCard();
             // MySecondCode.Program.RunRandomBytes();
             // MyThirdCode.Program.RunLargerValue();
-            myFourthCode.Program.RunRandomNumbers();
+            // MyFourthCode.Program.RunRandomNumbers();
+            MyFifthCode.Program.RunSubscriptionMessage();
         }
     }
 }

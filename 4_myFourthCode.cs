@@ -1,4 +1,4 @@
-namespace myFourthCode {
+namespace MyFourthCode {
     class Program {
         public static void RunRandomNumbers() {
             for (int x = 0; x < 5; x++) {
