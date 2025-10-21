@@ -6,7 +6,8 @@ namespace ThisIsWhereIShouldPutMyMainFunction {
             // MyThirdCode.Program.RunLargerValue();
             // MyFourthCode.Program.RunRandomNumbers();
             // MyFifthCode.Program.RunSubscriptionMessage();
-            MySixthCode.Program.RunFraudDetector();
+            // MySixthCode.Program.RunFraudDetector();
+            MySeventhCode.Program.RunScoreReport();
         }
     }
 }
