@@ -8,7 +8,8 @@ namespace ThisIsWhereIShouldPutMyMainFunction {
             // MyFifthCode.Program.RunSubscriptionMessage();
             // MySixthCode.Program.RunFraudDetector();
             // MySeventhCode.Program.RunScoreReport();
-            MyEighthCode.Program.RunSKUChecker();
+            // MyEighthCode.Program.RunSKUChecker();
+            MyNinthCode.Program.RunFizzBuzz();
         }
     }
 }
